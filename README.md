@@ -2,6 +2,10 @@
 
 Get solutions to errors/issues within your terminal.
 
+## Demo
+
+![](demo/demo.mp4)
+
 ## Installation
 
 ```zsh
